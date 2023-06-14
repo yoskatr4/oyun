@@ -36,5 +36,6 @@ Copy code
 ## Ekran Görüntüsü
 
 ![Oyun Ekranı](screenshot.png)
+![Oyun Ekranı](screenshot1.png)
 
 Bu örneği kullanarak, Kareler oyununun nasıl çalıştığını, kodun nasıl yapılandırıldığını ve kullanıcılara nasıl sunulduğunu anlatabilirsiniz. Ek olarak, kullanıcıları oyunu indirmeye, gereksinimleri karşılamaya ve oynamaya teşvik edebilirsiniz.
